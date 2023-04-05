@@ -172,34 +172,6 @@ yarn
 
 7. Deploy to the cloud by running going to [Vercel](https://vercel.com/) and making an account if you don't have one or you another hosting service of your choice.
 
-## Authors
-
-- Drake Axelrod ([@drakeaxelrod](https://twitter.com/drakeaxelrod)) - [website](https://www.draxel.io)
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/DrakeAxelrod">
-        <img src="https://avatars.githubusercontent.com/u/51012876?v=4" width="64px;" alt="Drake Axelrod" style="border-radius: 100%;"/>
-      </a>
-      <br />
-      <sub>
-        <b>Drake Axelrod</b>
-      </sub>
-    </td>
-  </tr>
-</table>
-
-## License
-
-MIT © [Drake Axelrod](https://github.com/DrakeAxelrod)
-
-👉 [license](https://github.com/DrakeAxelrod/json-resume-service/blob/main/LICENSE.md)
 
 ## Footer
 
